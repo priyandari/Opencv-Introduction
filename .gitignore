@@ -1,3 +1,4 @@
+.gitignore
 source_tutorials
 opencv-introduction.code-workspace
 01_Install_OpenCV.txt
